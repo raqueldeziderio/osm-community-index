@@ -1,13 +1,8 @@
 {
-  "id": "OSM-group",
-  "type": "group",
-  "locationSet": {
-  
-   "include": ["rio_de_janeiro.geojson"]
-  
-  },
+  "type": "facebook",
+  "locationSet": {"include": ["rio_de_janeiro.geojson"]},
   "languageCodes": ["pt"],
-  "order": 4,
+  "order": 5,
   "strings": {
     "community": "YouthMappers UFRJ",
     "comunityID": "mapeadoresYouthMappersUFRJ",
@@ -15,9 +10,7 @@
     "signupUrl": "https://ivides.org/youthmappers-ufrj",
     "url": "https://ivides.org/youthmappers-ufrj"
   },
-  "contacts": [
-    {"name": "Raquel Dezidério Souto, Dr.", "email": "ym.ufrj@gmail.com"}
-  ],
+  "contacts": [{"name": "Raquel Dezidério Souto, Dr.", "email": "ym.ufrj@gmail.com"}],
  
   "defaults": {
   
